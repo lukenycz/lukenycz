@@ -4,7 +4,7 @@
                                             
 ### As you can see, from one project to another I'm trying something new to increase my skill. (PubBar, BMI Calculator)
 
-Currently I'm working on a URL Shoretner.
+Currently I'm working on a 100 Days of Swift with https://www.hackingwithswift.com/
 
 💳 I’m currently mastering **Swift.**
 
